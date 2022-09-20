@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/01.Intro.unity
+    guid: 8d8b6cf8a36758343b1e53dfddd27366
+  - enabled: 1
+    path: Assets/01.Scenes/02.Server.unity
+    guid: 1bcaa299a5493f84f94ead0ab1ec9359
+  - enabled: 1
+    path: Assets/01.Scenes/03.Lobby.unity
+    guid: 23f6a13d707b2584b868ac1ce9be3942
+  - enabled: 1
+    path: Assets/01.Scenes/03.Show.unity
+    guid: 9194389d09ad69541ba8de809fd47339
+  - enabled: 1
+    path: Assets/01.Scenes/04.Detail1.unity
+    guid: 28997c0b99ef4204496c7464a93cc30c
+  - enabled: 1
+    path: Assets/01.Scenes/04.Detail2.unity
+    guid: 98695079a684dee41b2348eb9b41ddee
+  - enabled: 1
+    path: Assets/01.Scenes/04.Detail3.unity
+    guid: 71022e8a10b908c49af30db3d7996e43
+  - enabled: 1
+    path: Assets/01.Scenes/04.Detail4.unity
+    guid: c7c9da07c9d9a4344af2d01fa9ed783d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 83eb9a81d754de6499dd377103215300, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6e462629b2cb2ba44a66f616325db100, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bea0d0adad4ed42438a922f1dcc1357b, type: 2}
