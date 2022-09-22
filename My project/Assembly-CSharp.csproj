@@ -305,6 +305,7 @@
     <Compile Include="Assets\Magic Light Probes\MLPPointData.cs" />
     <Compile Include="Assets\Magic Light Probes\MLPPoint.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrackSegment.cs" />
+    <Compile Include="Assets\02.Script\04.Scene\CraftManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
